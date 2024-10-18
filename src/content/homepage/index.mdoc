@@ -12,9 +12,7 @@ customNavigation:
    alignItems="center"
    flexDirection="row"
    gap="10px" %}
-{% Column targetWidth="300px" flexGrow=false %}
-Tara Flynn Welcomes You
-
+{% Column targetWidth="300px" flexGrow=true %}
 Specializing in Psychotherapy for Adolescents and Young Adults\
 in the heart of \
 Massapequa Park, NY
@@ -23,8 +21,20 @@ Massapequa Park, NY
 {% Column targetWidth="300px" flexGrow=true %}
 ![](../../assets/images/pages/image.png)
 {% /Column %}
-
-{% Column targetWidth="500px" flexGrow=false /%}
 {% /MultiColumn %}
 
-### 
+{% MultiColumn
+   justifyContent="center"
+   alignItems="flex-start"
+   flexDirection="row"
+   gap="10px" %}
+{% Column targetWidth="250px" flexGrow=false %}
+![](../../assets/images/pages/image.png)
+
+Tara Flynn Welcomes You
+{% /Column %}
+
+{% Column targetWidth="250px" flexGrow=false %}
+ABOUT
+{% /Column %}
+{% /MultiColumn %}
