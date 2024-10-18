@@ -1,5 +1,5 @@
 {
-  "siteTitle": "Website",
+  "siteTitle": "Tara Flynn Counseling",
   "position": {
     "discriminant": "top",
     "value": {
@@ -17,8 +17,8 @@
     "subItemIndent": "10px"
   },
   "colors": {
-    "backgroundColor": "#9cacff87",
-    "menuHoverColor": "#ffffff80",
+    "backgroundColor": "#f5f5e0",
+    "menuHoverColor": "#ffffff",
     "dropdownColor": "#0a0057ed",
     "dropdownHoverColor": "#ffffff80"
   },
@@ -29,7 +29,7 @@
       "fontStyle": "normal",
       "fontSize": "1.5rem",
       "lineHeight": 1,
-      "color": "#0a0057",
+      "color": "#6a7161",
       "marginTop": "0.5rem",
       "marginBottom": "0.5rem"
     },
@@ -44,12 +44,12 @@
       "marginBottom": "4px"
     },
     "menuText": {
-      "fontFamily": "fontStack3",
+      "fontFamily": "fontStack1",
       "fontWeight": "400",
       "fontStyle": "normal",
       "fontSize": "1.5rem",
       "lineHeight": 1,
-      "color": "#0a0057",
+      "color": "#6a7161",
       "marginTop": "4px",
       "marginBottom": "4px"
     }
