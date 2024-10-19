@@ -31,7 +31,7 @@
       "lineHeight": 1,
       "color": "#6a7161",
       "marginTop": "0.5rem",
-      "marginBottom": "0.5rem"
+      "marginBottom": "0rem"
     },
     "menuSub": {
       "fontFamily": "fontStack1",
