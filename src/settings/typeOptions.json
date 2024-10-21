@@ -14,7 +14,7 @@
     "marginBottom": "1rem"
   },
   "h1": {
-    "fontFamily": "fontStack1",
+    "fontFamily": "fontStack2",
     "fontWeight": "700",
     "fontStyle": "normal",
     "fontSize": "2rem",
@@ -41,7 +41,7 @@
     "lineHeight": 1.25,
     "color": "",
     "marginTop": "2em",
-    "marginBottom": "5em"
+    "marginBottom": "1em"
   },
   "h4": {
     "fontFamily": "fontStack1",
