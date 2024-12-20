@@ -7,22 +7,8 @@ customNavigation:
 ---
 # Tara Flynn Counseling *MS, LMHC*
 
-{% MultiColumn
-   justifyContent="center"
-   alignItems="center"
-   flexDirection="row"
-   gap="10px" %}
-{% Column targetWidth="280px" flexGrow=true %}
-Specializing in psychotherapy for adolescents and young adults in the heart of
-
-*Massapequa Park, NY*
-{% /Column %}
-
-{% Column targetWidth="320px" flexGrow=true %}
-![](../../assets/images/pages/office.png)
-{% /Column %}
-{% /MultiColumn %}
-
+{% CustomCSSWrapper
+   customCSS="YmFja2dyb3VuZDogI0Q1RERDOTsKd2lkdGg6IDEzMDNweDsKaGVpZ2h0OiA2MDRweDsKZmxleC1zaHJpbms6IDA7" %}
 {% MultiColumn
    justifyContent="center"
    alignItems="center"
@@ -38,10 +24,11 @@ Specializing in psychotherapy for adolescents and young adults in the heart of
    alignItems="center"
    flexDirection="row"
    gap="10px" %}
-{% Column targetWidth="250px" flexGrow=false %}
-![](../../assets/images/pages/image.png)
+{% Column targetWidth="250px" flexGrow=true %}
+![](../../assets/images/pages/TARA%20FLYNN%20OFFICE.png)
 {% /Column %}
 {% /MultiColumn %}
+{% /CustomCSSWrapper %}
 
 {% MultiColumn
    justifyContent="center"
